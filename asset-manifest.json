@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HXH-Memory-Game/static/css/main.76104442.chunk.css",
+    "main.js": "/HXH-Memory-Game/static/js/main.a41de1e5.chunk.js",
+    "main.js.map": "/HXH-Memory-Game/static/js/main.a41de1e5.chunk.js.map",
+    "runtime-main.js": "/HXH-Memory-Game/static/js/runtime-main.6891beaf.js",
+    "runtime-main.js.map": "/HXH-Memory-Game/static/js/runtime-main.6891beaf.js.map",
+    "static/js/2.de6a7ef8.chunk.js": "/HXH-Memory-Game/static/js/2.de6a7ef8.chunk.js",
+    "static/js/2.de6a7ef8.chunk.js.map": "/HXH-Memory-Game/static/js/2.de6a7ef8.chunk.js.map",
+    "index.html": "/HXH-Memory-Game/index.html",
+    "static/css/main.76104442.chunk.css.map": "/HXH-Memory-Game/static/css/main.76104442.chunk.css.map",
+    "static/js/2.de6a7ef8.chunk.js.LICENSE.txt": "/HXH-Memory-Game/static/js/2.de6a7ef8.chunk.js.LICENSE.txt",
+    "static/media/bisky.72c27f55.jpeg": "/HXH-Memory-Game/static/media/bisky.72c27f55.jpeg",
+    "static/media/logo.1ff8607f.png": "/HXH-Memory-Game/static/media/logo.1ff8607f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6891beaf.js",
+    "static/js/2.de6a7ef8.chunk.js",
+    "static/css/main.76104442.chunk.css",
+    "static/js/main.a41de1e5.chunk.js"
+  ]
+}
