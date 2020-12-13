@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HXH-Memory-Game/static/css/main.76104442.chunk.css",
-    "main.js": "/HXH-Memory-Game/static/js/main.0144aac4.chunk.js",
-    "main.js.map": "/HXH-Memory-Game/static/js/main.0144aac4.chunk.js.map",
+    "main.js": "/HXH-Memory-Game/static/js/main.2a65eb70.chunk.js",
+    "main.js.map": "/HXH-Memory-Game/static/js/main.2a65eb70.chunk.js.map",
     "runtime-main.js": "/HXH-Memory-Game/static/js/runtime-main.6891beaf.js",
     "runtime-main.js.map": "/HXH-Memory-Game/static/js/runtime-main.6891beaf.js.map",
     "static/js/2.de6a7ef8.chunk.js": "/HXH-Memory-Game/static/js/2.de6a7ef8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6891beaf.js",
     "static/js/2.de6a7ef8.chunk.js",
     "static/css/main.76104442.chunk.css",
-    "static/js/main.0144aac4.chunk.js"
+    "static/js/main.2a65eb70.chunk.js"
   ]
 }
