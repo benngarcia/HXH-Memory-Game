@@ -10,7 +10,7 @@ const Header = props => {
         <div className="header-info">
         {/* Update this to display text on hover of just "About" instead of plug */}
         <p className="about">
-          Built by hahahaCorn for <a href="https://theodinproject.com">The Odin Project</a>-- for contact discord: hahahaCorn#9185
+          Built by hahahaCorn for <a href="https://theodinproject.com" target="_blank" rel="noreferrer">The Odin Project</a>-- for contact discord: hahahaCorn#9185
         </p>
         <p className="current-score">
           Your score: {props.current_score} </p>
